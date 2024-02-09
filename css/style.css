@@ -1,0 +1,119 @@
+
+#topheader1
+{
+    background-color: ghostwhite;
+    border-bottom: 1px solid silver;
+}
+#topheader1 a{
+    color:blue;
+    font-weight: 600;
+    font-size: .89rem;
+}
+#topheader2
+{
+    background-color :#833343;
+}
+body
+{
+    background: linear-gradient(#f6c5bf,#fff7f9);
+}
+.container-fluid
+{
+    padding-left: 0;
+    padding-right: 0;
+    
+}
+.nav ul li a
+{
+    font-size:1.1rem ;
+    font-weight:600;
+    
+}
+.full-footer
+{
+    background-color:#ea99a9;
+      
+}
+.top-footer a
+{
+color:white;
+font-weight: 600;
+text-decoration-line: none;
+}
+.top-footer p,h3
+{
+    color:white;
+}
+.top-footer h3
+{
+    color:white;
+}
+.top-footer i
+{
+    color:silver;
+      
+}
+.bottom-footer 
+{
+background-color:#833343;
+
+}
+.bottom-footer p
+{
+color:white;
+text-align: center;
+font-size: medium;
+
+}
+.top-section
+{
+    background-color: #ea99a9;
+    padding-left: 0;
+    padding-right: 0;
+}
+.top-section h2,h4,h5
+{
+    color:white;
+}
+.top-section a
+{
+    color:white;
+    font-weight: 600;
+    
+}
+.qualities-img
+{
+    width:200px;
+    height:200px;
+}
+.middle-section h5,h3,p
+{
+color:#833343;
+}
+.breadcrumb-section
+{
+  background-color: #c6c2c6;  
+}
+.carousel-caption
+{
+       
+    left: auto;
+}
+
+.carousel-caption h1
+{
+color:white;
+}
+
+.carousel-caption h3
+{
+color:#3498db
+}
+.carousel-item img
+{
+    height:500px;
+}
+.form-control
+{
+    border-radius: 50px;
+}
